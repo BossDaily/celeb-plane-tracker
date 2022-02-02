@@ -1,6 +1,8 @@
+import '../style/styles.css'
+
 const home = () => {
     return <div> 
-      <p>  Test </p>
+        <p className={styles.style}>Test</p>
     </div>
 }
 
