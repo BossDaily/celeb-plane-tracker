@@ -4,13 +4,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
+        <title>Mah epic app</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://nextjs.org">Next.js! Mah epic app B) Going to learn nextjs</a>
         </h1>
 
         <p className="description">
@@ -33,7 +33,7 @@ export default function Home() {
             className="card"
           >
             <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>Discover and deploy boilerplate example Next.js projects. Testing how fast this updates</p>
           </a>
 
           <a
@@ -42,7 +42,7 @@ export default function Home() {
           >
             <h3>Deploy &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Instantly deploy your Next.js site to a public URL with Vercel. EPIC!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
             </p>
           </a>
         </div>
@@ -54,7 +54,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          Powered by BossDaily's sanity{' '}
           <img src="/vercel.svg" alt="Vercel" className="logo" />
         </a>
       </footer>
